@@ -11,11 +11,16 @@ package pruebagit;
  */
 public class HelloPruebaGit {
     //mas comentarios
+   
+   private final String NOMBRE = "GAby";
    public void metodo(){
    System.out.println("Gaby me chamaqueo");
+   
+ 
    }
    
    
 }
+
 
 
